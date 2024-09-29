@@ -1,0 +1,16 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: grafana-nodeport
+  namespace: monitor
+  labels:
+    app: grafana  
+spec:
+  type: NodePort
+  ports:
+    - port: 3000        # Port on which the service will be exposed
+      targetPort: 80     # Port Grafana listens to in the pod
+      protocol: TCP
+      nodePort: 30002    # The port you can access from outside (range 30000–32767)
+  selector:
+    app: grafana
