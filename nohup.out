@@ -4,3 +4,480 @@ Handling connection for 3000
 Handling connection for 3000
 Handling connection for 3000
 error: lost connection to pod
+Forwarding from 127.0.0.1:8080 -> 8080
+Forwarding from [::1]:8080 -> 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+E0930 15:38:41.828918  170915 portforward.go:385] error copying from remote stream to local connection: readfrom tcp4 127.0.0.1:8080->127.0.0.1:38012: write tcp4 127.0.0.1:8080->127.0.0.1:38012: write: broken pipe
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Error from server (NotFound): services "jenkins" not found
+Forwarding from 127.0.0.1:8081 -> 8080
+Forwarding from [::1]:8081 -> 8080
+E0930 15:44:14.087445  170915 portforward.go:385] error copying from remote stream to local connection: readfrom tcp4 127.0.0.1:8080->127.0.0.1:43412: write tcp4 127.0.0.1:8080->127.0.0.1:43412: write: broken pipe
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Forwarding from 127.0.0.1:3000 -> 3000
+Forwarding from [::1]:3000 -> 3000
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 3000
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 3000
+Handling connection for 3000
+Handling connection for 3000
+Handling connection for 3000
+Handling connection for 3000
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 3000
+Handling connection for 3000
+Handling connection for 3000
+Handling connection for 3000
+Handling connection for 3000
+Handling connection for 3000
+Handling connection for 3000
+Handling connection for 3000
+Handling connection for 3000
+Handling connection for 3000
+Handling connection for 3000
+Handling connection for 3000
+Handling connection for 3000
+Handling connection for 3000
+Handling connection for 3000
+Handling connection for 3000
+Handling connection for 3000
+Handling connection for 3000
+Handling connection for 3000
+Handling connection for 3000
+Handling connection for 3000
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+E1001 10:03:15.839475  170915 portforward.go:385] error copying from remote stream to local connection: readfrom tcp4 127.0.0.1:8080->127.0.0.1:38284: write tcp4 127.0.0.1:8080->127.0.0.1:38284: write: broken pipe
+Handling connection for 8080
+E1001 10:03:17.692822  170915 portforward.go:385] error copying from remote stream to local connection: readfrom tcp4 127.0.0.1:8080->127.0.0.1:47990: write tcp4 127.0.0.1:8080->127.0.0.1:47990: write: broken pipe
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 3000
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+E1001 10:05:00.463806  170915 portforward.go:385] error copying from remote stream to local connection: readfrom tcp4 127.0.0.1:8080->127.0.0.1:40752: write tcp4 127.0.0.1:8080->127.0.0.1:40752: write: broken pipe
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 3000
+E1001 10:06:22.369165  175144 portforward.go:413] an error occurred forwarding 3000 -> 3000: error forwarding port 3000 to pod 6ae7df9321856d299c9054d71b35f8359fcb8be1f2040a548ce4162c6150de6c, uid : container not running (6ae7df9321856d299c9054d71b35f8359fcb8be1f2040a548ce4162c6150de6c)
+error: lost connection to pod
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+E1001 11:44:01.223805  170915 portforward.go:385] error copying from remote stream to local connection: readfrom tcp4 127.0.0.1:8080->127.0.0.1:43234: write tcp4 127.0.0.1:8080->127.0.0.1:43234: write: broken pipe
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+E1001 11:51:25.680400  170915 portforward.go:385] error copying from remote stream to local connection: readfrom tcp4 127.0.0.1:8080->127.0.0.1:41392: write tcp4 127.0.0.1:8080->127.0.0.1:41392: write: broken pipe
+Handling connection for 8080
+E1001 11:51:28.374580  170915 portforward.go:385] error copying from remote stream to local connection: readfrom tcp4 127.0.0.1:8080->127.0.0.1:47178: write tcp4 127.0.0.1:8080->127.0.0.1:47178: write: broken pipe
+Handling connection for 8080
+E1001 11:52:24.724301  170915 portforward.go:374] error creating forwarding stream for port 8080 -> 8080: Timeout occurred
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8081
+Handling connection for 8081
+E1001 11:53:07.132454  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+Handling connection for 8080
+E1001 11:53:13.527964  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+Handling connection for 8080
+E1001 11:53:13.992008  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+Handling connection for 8080
+E1001 11:53:37.089253  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+E1001 12:08:23.827861  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+Handling connection for 8080
+E1001 12:08:33.047058  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+Handling connection for 8080
+E1001 12:08:34.025784  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+Handling connection for 8080
+E1001 12:08:34.102375  170915 portforward.go:374] error creating forwarding stream for port 8080 -> 8080: Timeout occurred
+E1001 12:09:03.130976  170915 portforward.go:374] error creating forwarding stream for port 8080 -> 8080: Timeout occurred
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+E1001 13:27:06.455823  170915 portforward.go:374] error creating forwarding stream for port 8080 -> 8080: Timeout occurred
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+E1001 13:27:06.624020  170915 portforward.go:374] error creating forwarding stream for port 8080 -> 8080: Timeout occurred
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+E1001 13:27:10.488964  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+Handling connection for 8080
+E1001 13:27:12.822063  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+Handling connection for 8080
+E1001 13:27:13.100465  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+Handling connection for 8080
+E1001 13:27:24.878443  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+E1001 13:27:36.308527  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+Handling connection for 8080
+E1001 13:27:36.400941  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+Handling connection for 8080
+E1001 13:27:42.818122  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+Handling connection for 8080
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+E1001 13:29:37.811546  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+Handling connection for 8080
+E1001 13:30:02.490633  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+Handling connection for 8080
+E1001 13:30:02.664624  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+Handling connection for 8080
+E1001 13:30:03.753649  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+Handling connection for 8080
+E1001 13:30:32.655796  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+E1001 13:35:07.775517  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+Handling connection for 8080
+E1001 13:35:09.888895  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+Handling connection for 8080
+E1001 13:35:10.819016  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+Handling connection for 8081
+Handling connection for 8081
+E1001 13:35:34.118960  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+E1001 13:35:37.806061  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+E1001 13:35:39.917347  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+Handling connection for 8080
+Handling connection for 8080
+E1001 13:37:37.440460  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+Handling connection for 8080
+E1001 13:37:55.416863  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+Handling connection for 8080
+E1001 13:38:07.522261  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+Handling connection for 8080
+E1001 13:38:25.325313  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+E1001 13:38:53.800426  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+Handling connection for 8080
+E1001 13:39:23.796870  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+E1001 13:54:46.510018  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+Handling connection for 8080
+E1001 13:54:46.516269  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+Handling connection for 8080
+E1001 13:55:03.786096  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+E1001 13:55:03.911484  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+E1001 13:55:03.914037  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+E1001 13:55:16.650063  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+E1001 13:55:16.663523  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+E1001 13:55:38.343819  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+Handling connection for 8081
+Handling connection for 8081
+E1001 13:55:43.404519  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+E1001 13:55:43.407578  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+E1001 13:55:47.527123  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+Handling connection for 8080
+E1001 13:55:50.684266  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+E1001 13:55:55.211849  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+E1001 13:56:17.920901  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+Handling connection for 8080
+E1001 13:56:47.669932  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+Handling connection for 8080
+E1001 15:55:36.363220  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+E1001 15:56:12.767756  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+E1001 15:56:12.789521  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+Handling connection for 8081
+Handling connection for 8081
+E1001 15:56:38.361052  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+E1001 15:56:38.373441  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+Handling connection for 8080
+Handling connection for 8080
+Unable to listen on port 8080: Listeners failed to create with the following errors: [unable to create listener: Error listen tcp4 127.0.0.1:8080: bind: address already in use unable to create listener: Error listen tcp6 [::1]:8080: bind: address already in use]
+error: unable to listen on any of the requested ports: [{8080 8080}]
+Handling connection for 8080
+E1001 15:59:32.248274  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+E1001 15:59:32.253055  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+E1001 16:00:00.611899  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+E1001 16:00:01.655802  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+E1001 16:00:01.657351  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: Timeout occurred
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+error: lost connection to pod
+Handling connection for 8080
+E1001 16:06:02.566864  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: write tcp 127.0.0.1:38008->127.0.0.1:6443: write: broken pipe
+Handling connection for 8080
+E1001 16:06:02.732898  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: write tcp 127.0.0.1:38008->127.0.0.1:6443: write: broken pipe
+Handling connection for 8080
+E1001 16:06:02.753305  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: write tcp 127.0.0.1:38008->127.0.0.1:6443: write: broken pipe
+Handling connection for 8080
+E1001 16:06:02.760708  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: write tcp 127.0.0.1:38008->127.0.0.1:6443: write: broken pipe
+Handling connection for 8080
+E1001 16:06:03.826876  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: write tcp 127.0.0.1:38008->127.0.0.1:6443: write: broken pipe
+Handling connection for 8080
+E1001 16:06:03.832877  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: write tcp 127.0.0.1:38008->127.0.0.1:6443: write: broken pipe
+Handling connection for 8080
+E1001 16:06:08.497728  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: write tcp 127.0.0.1:38008->127.0.0.1:6443: write: broken pipe
+Handling connection for 8080
+E1001 16:06:08.507667  170915 portforward.go:351] error creating error stream for port 8080 -> 8080: write tcp 127.0.0.1:38008->127.0.0.1:6443: write: broken pipe
+Unable to listen on port 8080: Listeners failed to create with the following errors: [unable to create listener: Error listen tcp4 127.0.0.1:8080: bind: address already in use unable to create listener: Error listen tcp6 [::1]:8080: bind: address already in use]
+error: unable to listen on any of the requested ports: [{8080 8080}]
+Forwarding from 127.0.0.1:8081 -> 8080
+Forwarding from [::1]:8081 -> 8080
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Handling connection for 8081
+Unable to listen on port 8080: Listeners failed to create with the following errors: [unable to create listener: Error listen tcp4 127.0.0.1:8080: bind: address already in use unable to create listener: Error listen tcp6 [::1]:8080: bind: address already in use]
+error: unable to listen on any of the requested ports: [{8080 8080}]
+error: Service argocd-server does not have a service port 8080
